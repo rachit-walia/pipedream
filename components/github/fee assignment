@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-2FEE</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=684&h=456">
+</head>
+<body>
+    <hr>
+    <div id="header">
+        <header><i>Home &nbsp;&nbsp;&nbsp;&nbsp; bollywood &nbsp;&nbsp;&nbsp;&nbsp; Hollywood &nbsp;&nbsp;&nbsp;&nbsp; South Indian &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/">Follow(insta)</a></i></header>
+    </div>
+    <hr>
+    <fieldset>
+    <div id="image">
+        <div id="image">
+            <img src="https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg" alt="Avatar The Way of Water poster" height="172">
+            </div>
+            <div id="name">
+            <b>Avatar: The Way Of Water</b>
+            </div>
+            <div id="content">
+                Avatar: The Way of Water is a 2022 American epic science fiction film directed and produced by James Cameron. He co-wrote the screenplay with Rick Jaffa and Amanda Silver from a story the trio wrote with Josh Friedman and Shane Salerno. Distributed by 20th Century Studios, it is the sequel to Avatar (2009) and the second installment in the Avatar film series. Cast members Sam Worthington, Zoe Saldaña, Stephen Lang, Joel David Moore, CCH Pounder, Giovanni Ribisi, Dileep Rao, and Matt Gerald reprise their roles from the original film, with Sigourney Weaver returning in an additional role[6] while Kate Winslet joined the cast. It follows a blue-skinned humanoid Na'vi named Jake Sully (Worthington) as he and his family, under renewed human threat, seek refuge with the aquatic Metkayina clan of Pandora, a habitable exomoon on which they live.
+            </div>
+    </div>
+</fieldset>
+<br><br><br>
+<fieldset>
+    <div id="image">
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg" alt="Inception poster" height="172">
+        </div>
+        <div id="name">
+        <b>Inception</b>
+        </div>
+        <div id="content">
+            Inception is a 2010 science fiction action film written and directed by Christopher Nolan. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious of his targets. He is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious.Inception grossed over $828 million worldwide, becoming the fourth-highest-grossing film of 2010. Considered one of the best films of the 2010s.
+        </div>
+</fieldset>
+<br><br><br>
+<fieldset>
+    <div id="image">
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg" alt="Joker poster" height="172">
+        </div>
+        <div id="name">
+        <b>Joker</b>
+        </div>
+        <div id="content">
+            Joker is a 2019 American neo-noir psychological thriller film directed by Todd Phillips. Set in 1981, it follows Arthur Fleck, a failed clown and aspiring stand-up comic whose descent into mental illness and nihilism inspires a violent countercultural revolution against the prosperous in a decaying Gotham City.The film was a box office success and set records for an October release. It grossed over $1 billion, the first R-rated film to do so and became the sixth-highest-grossing film of 2019 during its theatrical run. 
+        </div>
+</fieldset>
+<br><br><br>
+<fieldset>
+    <div id="image">
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg" alt="John Wick: Chaper 4 poster" height="172">
+        </div>
+        <div id="name">
+        <b>John Wick: Chapter 4</b>
+        </div>
+        <div id="content">
+            John Wick: Chapter 4 is a 2023 American neo-noir action thriller film directed by Chad Stahelski and written by Shay Hatten and Michael Finch. The sequel to John Wick: Chapter 3 – Parabellum (2019) and the fourth installment in the John Wick franchise, the film stars Keanu Reeves as the title character, alongside Donnie Yen, Bill Skarsgård, Laurence Fishburne, Hiroyuki Sanada, Shamier Anderson, Lance Reddick, Rina Sawayama, Scott Adkins, Clancy Brown, and Ian McShane. In the film, John Wick sets out to get revenge on the High Table and those who left him for dead.
+        </div>
+</fieldset>
+</body>
+</html>
